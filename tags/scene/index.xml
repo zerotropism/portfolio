@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on zerotropism</title>
+    <link>https://zerotropism.github.io/portfolio/tags/scene/</link>
+    <description>Recent content in scene on zerotropism</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Feb 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://zerotropism.github.io/portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Translator</title>
+      <link>https://zerotropism.github.io/portfolio/post/project-1/</link>
+      <pubDate>Sat, 15 Feb 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://zerotropism.github.io/portfolio/post/project-1/</guid>
+      <description>Digest A humble code to request a translation model based on fairseq technology from Pytorch.
+Go to repo
+Sources &amp;amp; docs  Pytorch&#39; fairseq model  </description>
+    </item>
+    
+  </channel>
+</rss>

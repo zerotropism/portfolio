@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on zerotropism</title>
+    <link>https://zerotropism.github.io/portfolio/</link>
+    <description>Recent content in Data Science Portfolio on zerotropism</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Aug 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://zerotropism.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Practice neural nets 101</title>
+      <link>https://zerotropism.github.io/portfolio/post/project-7/</link>
+      <pubDate>Sat, 08 Aug 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://zerotropism.github.io/portfolio/post/project-7/</guid>
+      <description>Digest Digest in Python of the Hacker&amp;rsquo;s guide to neural nets from Andrej Karpathy blog consulted on sept 2020.
+Link Go to repo
+Sources &amp;amp; docs  Hacker&amp;rsquo;s guide to Neural Networks  </description>
+    </item>
+    
+    <item>
+      <title>Recommendation system</title>
+      <link>https://zerotropism.github.io/portfolio/post/project-5/</link>
+      <pubDate>Sat, 08 Aug 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://zerotropism.github.io/portfolio/post/project-5/</guid>
+      <description>Digest Walkthrough a recommendation system tutorial on a movies database.
+Link Go to repo
+Sources &amp;amp; docs  Datacamp stackabuse  </description>
+    </item>
+    
+    <item>
+      <title>Chatbot</title>
+      <link>https://zerotropism.github.io/portfolio/post/project-2/</link>
+      <pubDate>Wed, 08 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://zerotropism.github.io/portfolio/post/project-2/</guid>
+      <description>Digest Provide a multi-domain chatbot that answers students transversal questions on every possible topics of enrolled career.
+definitions   rasa is the framework. It is comprised of two distinct parts:
+ NLU which processes natural language understanding tasks to generate a language model, and Core which processes the expression.  Both are trained separately.
+  rasa x is the interface that helps users manage, train and deploy their rasa model.</description>
+    </item>
+    
+    <item>
+      <title>Survival analysis</title>
+      <link>https://zerotropism.github.io/portfolio/post/project-6/</link>
+      <pubDate>Sat, 22 Feb 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://zerotropism.github.io/portfolio/post/project-6/</guid>
+      <description>Digest Context The dataset comes from a clinical trial in the field of primary biliary cirrhosis (PBC) conducted at the Mayo Clinic between 1974 and 1984. Primary biliary cirrhosis is a fatal chronic liver disease.
+Dataset A total of 418 PBC patients were randomized to either a placebo or a drug called D-penicillamine. Each of them was followed until death or censoring (the duration is measured in days). The status at endpoint is coded as follows: 0/1/2 for censored, transplant and dead respectively.</description>
+    </item>
+    
+    <item>
+      <title>Translator</title>
+      <link>https://zerotropism.github.io/portfolio/post/project-1/</link>
+      <pubDate>Sat, 15 Feb 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://zerotropism.github.io/portfolio/post/project-1/</guid>
+      <description>Digest A humble code to request a translation model based on fairseq technology from Pytorch.
+Go to repo
+Sources &amp;amp; docs  Pytorch&#39; fairseq model  </description>
+    </item>
+    
+    <item>
+      <title>Exercises generator</title>
+      <link>https://zerotropism.github.io/portfolio/post/project-3/</link>
+      <pubDate>Thu, 13 Feb 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://zerotropism.github.io/portfolio/post/project-3/</guid>
+      <description>Digest Aims to generate 4 types of exercise based on video subtitles:
+ &amp;ldquo;conjugation&amp;rdquo;, &amp;ldquo;fill the blanks&amp;rdquo;, &amp;ldquo;punctuations&amp;rdquo;, and &amp;ldquo;scramble&amp;rdquo;.  Link Go to repo
+Sources &amp;amp; docs  Spacy nltk  </description>
+    </item>
+    
+    <item>
+      <title>Questions classifier</title>
+      <link>https://zerotropism.github.io/portfolio/post/project-4/</link>
+      <pubDate>Thu, 13 Feb 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://zerotropism.github.io/portfolio/post/project-4/</guid>
+      <description>Digest Script to classify Questions and Sentences. The goal is to detect if asked question corresponds to mapped sentence. Trained on SQuaD v1.1 dataset.
+Link Go to repo
+Sources &amp;amp; docs  huggingface transformers SQuAD  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://zerotropism.github.io/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zerotropism.github.io/portfolio/contact/</guid>
+      <description>Feel free to explore my github and contact me on Linkedin !
+ github Linkedin  </description>
+    </item>
+    
+  </channel>
+</rss>
