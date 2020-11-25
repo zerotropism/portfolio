@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on zerotropism</title>
+    <title>Projects on Home</title>
     <link>https://zerotropism.github.io/portfolio/post/</link>
-    <description>Recent content in Projects on zerotropism</description>
+    <description>Recent content in Projects on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://zerotropism.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://zerotropism.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Practice neural nets 101</title>
       <link>https://zerotropism.github.io/portfolio/post/project-7/</link>
@@ -35,10 +39,10 @@ Sources &amp;amp; docs  Datacamp stackabuse  </description>
       <pubDate>Wed, 08 Jul 2020 11:00:59 -0400</pubDate>
       
       <guid>https://zerotropism.github.io/portfolio/post/project-2/</guid>
-      <description>Digest Provide a multi-domain chatbot that answers students transversal questions on every possible topics of enrolled career.
-definitions   rasa is the framework. It is comprised of two distinct parts:
- NLU which processes natural language understanding tasks to generate a language model, and Core which processes the expression.  Both are trained separately.
-  rasa x is the interface that helps users manage, train and deploy their rasa model.</description>
+      <description>Digest Provide a multi-domain chatbot that answers users&amp;rsquo; transversal questions on every possible topics of users&amp;rsquo; db access.
+Repos The main repo regroups
+ a remote deploy backend 1.x a local deloy backend 2.x a frontend interface  RASA framework implementation research The version rasa_2.x has still to be derived for a remote deploy.
+definitions  rasa is the framework. It is comprised of two distinct parts:  NLU which processes natural language understanding tasks to generate a language model, and Core which processes the expression.</description>
     </item>
     
     <item>
@@ -59,7 +63,7 @@ Dataset A total of 418 PBC patients were randomized to either a placebo or a dru
       <guid>https://zerotropism.github.io/portfolio/post/project-1/</guid>
       <description>Digest A humble code to request a translation model based on fairseq technology from Pytorch.
 Go to repo
-Sources &amp;amp; docs  Pytorch&#39; fairseq model  </description>
+Sources &amp;amp; docs  Pytorch&amp;rsquo; fairseq model  </description>
     </item>
     
     <item>
